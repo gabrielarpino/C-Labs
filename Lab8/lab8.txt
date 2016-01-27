@@ -1,0 +1,2 @@
+Parent Array after Path Search: 
+-1 0 0 0 1 2 5 3 7 

@@ -1,0 +1,14 @@
+Edge: (0, 1) Flow: 0 Max Cap: 5 
+Edge: (0, 2) Flow: 0 Max Cap: 12 
+Edge: (0, 3) Flow: 0 Max Cap: 10 
+Edge: (1, 4) Flow: 0 Max Cap: 6 
+Edge: (2, 5) Flow: 0 Max Cap: 11 
+Edge: (3, 5) Flow: 0 Max Cap: 5 
+Edge: (3, 7) Flow: 0 Max Cap: 5 
+Edge: (4, 5) Flow: 0 Max Cap: 5 
+Edge: (5, 6) Flow: 0 Max Cap: 8 
+Edge: (5, 7) Flow: 0 Max Cap: 10 
+Edge: (6, 8) Flow: 0 Max Cap: 9 
+Edge: (7, 8) Flow: 0 Max Cap: 16 
+Parent Array: -1 -1 -1 -1 -1 -1 -1 -1 -1 
+Visited Nodes Array: 0 0 0 0 0 0 0 0 0 
